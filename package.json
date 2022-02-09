@@ -1,0 +1,30 @@
+{
+  "name": "mini-webpack",
+  "version": "1.0.0",
+  "description": "mini webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lily-tao/mini-webpack.git"
+  },
+  "keywords": [
+    "mini",
+    "simple",
+    "webpack"
+  ],
+  "author": "lily",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lily-tao/mini-webpack/issues"
+  },
+  "homepage": "https://github.com/lily-tao/mini-webpack#readme",
+  "devDependencies": {
+    "@babel/core": "^7.17.2",
+    "@babel/parser": "^7.17.0",
+    "@babel/preset-env": "^7.16.11",
+    "@babel/traverse": "^7.17.0"
+  }
+}
